@@ -147,7 +147,7 @@
 #event_right>img{width:100%;}
 
 /* ====grand style==== */
-#grand{height:600px;padding:0;background:url(../images/grandbase.jpg) center top;background-size:cover;background-attachment:fixed;}
+#grand{height:600px;padding:0;background:url(../images/grand_open_bg.jpg) center top;background-size:cover;background-attachment:fixed;}
 #grand_open{position: relative;height:600px;}
 #grand_date{position:absolute;left:50%;transform:translateX(-50%);top:30px;width:100%;text-align:center;}
 #grand_date>img{width:100%;}
